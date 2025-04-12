@@ -42,6 +42,6 @@ public class No {
 
     @Override
     public String toString(){
-        return "No { value = " + value + "}\n";
+        return "No { value = " + value + "}";
     }
 }
