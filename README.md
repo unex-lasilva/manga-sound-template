@@ -10,3 +10,14 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 # Equipe: <nome-da-equipe>
 1. <Nome de fulano>
 2. <Nome de fulana>
+
+
+# Avaliação das PRs:
+
+| Avaliador      | Fulando1 | Fulando2 | Fulando3 | Fulando4 | Fulando5 |
+|----------------|----------|----------|----------|----------|----------|
+| Fulano1        |    *     |   0      |  0       |  0       | 0        |
+| Fulano2        |    0     |   *      |  0       |  0       | 0        |
+| Fulano3        |    0     |   0      |  *       |  0       | 0        |
+| Fulano4        |    0     |   0      |  0       |  *       | 0        |
+| Fulano5        |    0     |   0      |  0       |  0       | *        |
