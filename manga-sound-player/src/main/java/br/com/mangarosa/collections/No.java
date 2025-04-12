@@ -39,4 +39,9 @@ public class No {
         }
         return false;
     }
+
+    @Override
+    public String toString(){
+        return "No { value = " + value + "}\n";
+    }
 }
